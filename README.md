@@ -20,7 +20,7 @@
 </h3>
 
 <p align="center">
-Need your support to speed up the website! ⚡⚡
+Need your support to speed up the website! ⚡⚡⚡
 </p>
 
 <p align="center">
@@ -119,7 +119,7 @@ Please give us a ⭐ in this repository!
                 <img src="https://res.cloudinary.com/socaves/image/upload/v1622793433/avatar/tony_cfpvng.png"
                     width="100" alt="" /><br /> <b>Tony Wong</b></a><br />
             <sup>Quality Assurance</sup> <br>
-            <sup>Android Developer</sup> <br>
+            <sup>Frontend Developer</sup> <br>
             <a href="https://socaves.com/profile/tonywong586" target="_blank" title="SOCAVES">🗻</a>
             <a href="https://twitter.com/tonywong586" target="_blank" title="Twitter">🐦</a>
         </td>
